@@ -16,13 +16,6 @@ It detects vehicles from live video or webcam streams and assigns persistent IDs
 
 ---
 
-## 🎥 Demo
-
-> 📽️ *[Insert YouTube/GIF link if available]*  
-> Example: "Watch the real-time vehicle tracking demo in action!"
-
----
-
 ## 📦 Installation
 
 ```bash
